@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://dawidtt.github.io/Ping-coming-soon-page-solution/)
 
 ## My process
 
