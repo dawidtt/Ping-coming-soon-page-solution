@@ -191,7 +191,7 @@ ion-icon:hover {
 }
 @media (min-width: 1800px) {
   main {
-    max-width: 50%;
+    max-width: 40%;
   }
   #main-hero {
     margin: 20px 0 0 0;
